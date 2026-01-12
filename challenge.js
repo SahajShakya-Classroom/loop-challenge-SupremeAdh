@@ -69,4 +69,3 @@ async function generateWeeklySummary() {
 }
 
 generateWeeklySummary();
-//a
